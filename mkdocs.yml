@@ -3,6 +3,9 @@ site_name: ClassNotes
 theme:
   name: 'material'
 
+  features:
+    - navigation.tabs
+
   # 404 page
   static_templates:
     - 404.html
