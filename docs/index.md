@@ -2,8 +2,6 @@
 
 This is our class notes website
 
-
-
 ## Contributions Guide
 
 1. Clone the repository on [our class' github page](https://github.com/M22504/class-notes-v2)
@@ -15,5 +13,3 @@ This is our class notes website
 4. Using a bash terminal (Git bash for Windows, or regular terminal elsewhere). Run setup.sh once and deploy.sh whenever you wish to push changes. 
 
 5. See changes on [this website](https://notes.fiveohfour.ml)
-
-
