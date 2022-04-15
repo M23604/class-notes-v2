@@ -55,4 +55,7 @@ extra_javascript:
 
 nav:
   - Home: index.md
-  - 'Getting Started.md'
+  - Y5S1:
+    - Climate Change:
+      - 'Climate Change/Singapore/Singapore.md'
+
