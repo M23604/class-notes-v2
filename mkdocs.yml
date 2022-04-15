@@ -50,6 +50,9 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.arithmatex:
       generic: true
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
 
 extra_javascript:
   - javascripts/mathjax.js
@@ -58,9 +61,19 @@ extra_javascript:
 
 nav:
   - Home: index.md
-  - Y5S1:
-    - Climate Change:
-      - 'Climate Change/Singapore.md'
-      - 'Climate Change/Global Efforts.md'
-      - 'Climate Change/Worldwide Impact.md'
-
+  - EL5131:
+    - Home: 'EL5131/index.md'
+    - Unit 1 - 4th Industrial Revolution:
+      - Articles:
+        - 'EL5131/FourIR/The Coming Robot Dystopia.md'
+        - 'EL5131/FourIR/New robots faster and smarter are taking over warehouses.md'
+    - Unit 2 - Climate Change:
+      - 'EL5131/Climate Change/Singapore.md'
+      - 'EL5131/Climate Change/Global Efforts.md'
+      - 'EL5131/Climate Change/Worldwide Impact.md'
+      - Articles:
+        - 'EL5131/Climate Change/Net Zero is Not Zero.md'
+  - PC5131:
+    - Home: 'PC5131/index.md'
+    - 'PC5131/Rotational Mechanics.md'
+    - 'PC5131/Waves I.md'
