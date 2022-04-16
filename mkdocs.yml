@@ -61,12 +61,25 @@ extra_javascript:
 
 nav:
   - Home: index.md
-  - EL5131:
+  - English:
     - Home: 'EL5131/index.md'
+    - 'EL5131/Stats and Quotes Notes.md'
+    - Technology:
+      - Big Tech:
+        - Home: 'EL5131\Technology\Big Tech\index.md.md'
+        - Articles:
+          - 'EL5131/Technology/Big Tech/Articles/article0.md'
+          - 'EL5131/Technology/Big Tech/Articles/article1.md'
+        - Essays:
+          - 'EL5131\Technology\Big Tech\Essays\essay0.md'
+          - 'EL5131\Technology\Big Tech\Essays\essay1.md'
+      - Cancel Culture:
+        - Essays:
+          - 'EL5131\Technology\Cancel Culture\Essays\essay0.md'
     - Unit 1 - 4th Industrial Revolution:
       - Articles:
-        - 'EL5131/FourIR/The Coming Robot Dystopia.md'
-        - 'EL5131/FourIR/New robots faster and smarter are taking over warehouses.md'
+        - 'EL5131/FourIR/Articles/article0.md'
+        - 'EL5131/FourIR/Articles/article1.md'
     - Unit 2 - Climate Change:
       - 'EL5131/Climate Change/Singapore.md'
       - 'EL5131/Climate Change/Global Efforts.md'
