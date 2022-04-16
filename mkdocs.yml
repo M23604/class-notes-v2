@@ -55,6 +55,10 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.arithmatex:
       generic: true
+  - attr_list
+  - md_in_html
+  - pymdownx.tabbed:
+      alternate_style: true
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
@@ -86,11 +90,15 @@ nav:
         - 'EL5131/FourIR/Articles/article0.md'
         - 'EL5131/FourIR/Articles/article1.md'
     - Unit 2 - Climate Change:
+      - Home: 'EL5131/Climate Change/index.md'
       - 'EL5131/Climate Change/Singapore.md'
       - 'EL5131/Climate Change/Global Efforts.md'
       - 'EL5131/Climate Change/Worldwide Impact.md'
       - Articles:
-        - 'EL5131/Climate Change/Net Zero is Not Zero.md'
+        - 'EL5131\Climate Change\Articles\article0.md'
+        - 'EL5131\Climate Change\Articles\article1.md'
+        - 'EL5131\Climate Change\Articles\article2.md'
+        - 'EL5131\Climate Change\Articles\article3.md'
   - PC5131:
     - Home: 'PC5131/index.md'
     - 'PC5131/Rotational Mechanics.md'
@@ -101,6 +109,8 @@ nav:
       - Harry Potter Conundrum: 'CS5131/Knowledge/harry.py'
       - Mastermind via Logic: 'CS5131/Knowledge/mastermind.py'
       - Puzzle via Logic: 'CS5131/Knowledge/puzzle.py'
+  - MA5431:
+      - 'MA5431/chapter4.md'
 
 plugins:
   - mkdocs-jupyter

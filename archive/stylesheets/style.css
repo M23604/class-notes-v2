@@ -1,0 +1,16 @@
+body {
+  /* using CSS variables */
+  --md-default-bg-color--dark: #181a1b;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color: #181a1b;
+  --md-typeset-color: #ffffff;
+  --md-typset-h1-color: #868585;
+  --md-typeset-table-color:#ffffff;
+  --md-typeset-a-color:#7094c5;
+}
+
+.md-typeset h1 {
+  color: #868585;
+}
