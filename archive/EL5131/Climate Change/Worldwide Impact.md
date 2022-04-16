@@ -17,5 +17,3 @@ Behind on global environmental efforts although they often they face the brunt o
   - Weak policy design, implementation and enforcement.
   
   - Not enough foreign financial aid.
-
-

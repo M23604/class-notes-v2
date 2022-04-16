@@ -1,6 +1,6 @@
 # 9 in 10 S'pore millennials willing to do their part for the environment, but want Govt to do more: Survey
-![[article1img.png]]
-*In a Mediacorp survey, 88 per cent of respondents aged 18 and 24 “agreed” or “strongly agreed” that they will do their part for the environment, which is a slightly lower proportion than those in other age groups.*
+![](https://onecms-res.cloudinary.com/image/upload/s--BnFZNPOV--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_622%2Cw_830/v1/tdy-migration/20190806_beachcleanup_bk_04.jpg?itok=HIyNexnr)
+> *In a Mediacorp survey, 88 per cent of respondents aged 18 and 24 “agreed” or “strongly agreed” that they will do their part for the environment, which is a slightly lower proportion than those in other age groups.*
 <hr>
 
 SINGAPORE — A survey by Mediacorp has found that the vast majority of Singapore millennials are concerned about the impact of climate change and want to do their part to address the problem.
