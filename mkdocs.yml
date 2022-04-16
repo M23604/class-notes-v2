@@ -21,19 +21,24 @@ theme:
     code: Roboto Mono
   favicon: assets/favicon.png
   icon:
-    logo: material/telescope
+    logo: material/console-network
 
   palette:
-    - scheme: slate
+    - media: "(prefers-color-scheme: dark)" 
+      scheme: slate
       primary: black
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-    - scheme: default
+    - media: "(prefers-color-scheme: light)" 
+      scheme: default
       primary: black
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
+
+extra_css:
+  - stylesheets/style.css
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -90,3 +95,12 @@ nav:
     - Home: 'PC5131/index.md'
     - 'PC5131/Rotational Mechanics.md'
     - 'PC5131/Waves I.md'
+  - CS5131:
+    - Knowledge:
+      - Logic Classes: 'CS5131/Knowledge/logic.py'
+      - Harry Potter Conundrum: 'CS5131/Knowledge/harry.py'
+      - Mastermind via Logic: 'CS5131/Knowledge/mastermind.py'
+      - Puzzle via Logic: 'CS5131/Knowledge/puzzle.py'
+
+plugins:
+  - mkdocs-jupyter
