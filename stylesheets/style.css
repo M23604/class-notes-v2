@@ -10,3 +10,7 @@ body {
   --md-typeset-table-color:#ffffff;
   --md-typeset-a-color:#7094c5;
 }
+
+.md-typeset h1 {
+  color: #868585;
+}
