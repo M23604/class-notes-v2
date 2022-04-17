@@ -1,5 +1,7 @@
 # Alkanes
-$$\require{mhchem}$$
+$$\require{mhchem}
+\text{Basic Structure: }\ce{H3C-CH2-CH2-\cdots-CH2CH3}
+$$
 ## Free Radical Substitution
 ### Initiation
 
