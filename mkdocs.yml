@@ -126,3 +126,10 @@ nav:
 plugins:
   - mkdocs-jupyter
   - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/M22504
+
+copyright: Copyright &copy; 2022 M22504
