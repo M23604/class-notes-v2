@@ -65,6 +65,7 @@ markdown_extensions:
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
+  - mkdocs-click
 
 extra_javascript:
   - javascripts/mathjax.js
@@ -72,7 +73,9 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 nav:
-  - Home: index.md
+  - Home:
+    - Home: index.md
+    - cli.md
   - English:
     - Home: 'EL5131/index.md'
     - 'EL5131/Stats and Quotes Notes.md'

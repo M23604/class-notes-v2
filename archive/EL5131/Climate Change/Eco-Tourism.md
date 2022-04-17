@@ -1,2 +1,0 @@
-# Eco-Tourism
-Eco-Tourism 
