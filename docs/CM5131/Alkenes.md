@@ -11,6 +11,11 @@ $$
 \end{align*}
 $$
 
+## Markovnikov's Rule
+<p align="center">"<i>The rich become richer"</i></p>
+
+In essence, Markovnikov's Rule deals with the fact that in the second stage of electrophilic addition, the nucleophile is likely to attack the more highly substituted carbon.
+
 ## Every Single Reaction
 
 ### Hydrogentation
@@ -55,3 +60,6 @@ $$
 \ce{R1R2HC - C(X)R3R4 ->[\text{alc. }KOH][heat] R1R2C = CR3R4 + HX}
 $$
 
+## Zaitsev's Rule
+- *trans* configuration better than *cis* configuration ([Geometric Isomerism](./Intro to Organic Chem))
+- More Highly Substituted Alkene is more stable
