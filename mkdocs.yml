@@ -39,6 +39,7 @@ theme:
 
 extra_css:
   - stylesheets/style.css
+  - stylesheets/chemistry.min.css
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -103,6 +104,11 @@ nav:
     - Home: 'PC5131/index.md'
     - 'PC5131/Rotational Mechanics.md'
     - 'PC5131/Waves I.md'
+  - CM5131:
+    - Home: 'CM5131/index.md'
+    - 'CM5131/Intro to Organic Chem.md'
+    - 'CM5131/Alkanes.md'
+    - 'CM5131/Alkenes.md'
   - CS5131:
     - Knowledge:
       - Logic Classes: 'CS5131/Knowledge/logic.py'
@@ -110,7 +116,7 @@ nav:
       - Mastermind via Logic: 'CS5131/Knowledge/mastermind.py'
       - Puzzle via Logic: 'CS5131/Knowledge/puzzle.py'
   - MA5431:
-      - 'MA5431/chapter4.md'
+      - Chapter 4 - Eigenvalues and Eigenvectors: 'MA5431/chapter4.md'
 
 plugins:
   - mkdocs-jupyter
