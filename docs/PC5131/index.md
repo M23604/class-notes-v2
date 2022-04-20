@@ -4,5 +4,5 @@
 - [x] [Rotational Mechanics](./Rotational Mechanics.md)
 - [x] [Waves I](./Waves I.md)
 - [ ] Waves II (Superposition)
-- [ ] Physical Optics
-- [ ] Geometric Optics
+- [ ] [Physical Optics](./Physical Optics)
+- [ ] [Geometric Optics]()
