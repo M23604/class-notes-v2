@@ -109,6 +109,8 @@ nav:
     - Home: 'PC5131/index.md'
     - 'PC5131/Rotational Mechanics.md'
     - 'PC5131/Waves I.md'
+    - 'PC5131/Physical Optics.md'
+    - 'PC5131/Geometric Optics.md'
   - CM5131:
     - Home: 'CM5131/index.md'
     - 'CM5131/Intro to Organic Chem.md'
