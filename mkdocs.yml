@@ -92,6 +92,7 @@ nav:
         - Essays:
           - 'EL5131\Technology\Cancel Culture\Essays\essay0.md'
     - Unit 1 - 4th Industrial Revolution:
+      - 'EL5131/FourIR/Industry.md'
       - Articles:
         - 'EL5131/FourIR/Articles/article0.md'
         - 'EL5131/FourIR/Articles/article1.md'
@@ -105,6 +106,11 @@ nav:
         - 'EL5131\Climate Change\Articles\article1.md'
         - 'EL5131\Climate Change\Articles\article2.md'
         - 'EL5131\Climate Change\Articles\article3.md'
+        - 'EL5131\Climate Change\Articles\article4.md'
+    - Unit 2 - Pandemic:
+      - 'EL5131/Pandemic/Pandemic.md'
+      - Articles:
+        - 'EL5131\Pandemic\Articles\article0.md'
   - PC5131:
     - Home: 'PC5131/index.md'
     - 'PC5131/Rotational Mechanics.md'
