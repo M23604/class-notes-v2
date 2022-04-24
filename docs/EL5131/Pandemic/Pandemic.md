@@ -6,4 +6,4 @@
 
 ## Misinformation
 
-- **Approval rating of Medical Opinion (PEW)**: Republican/Democratic split of 88% : 87% of adults widened to 66%: 90% from 2019 to 2021
+- **Approval rating of Medical Opinion (PEW)**: Republican/Democratic split of 88% : 87% of adults widened to 66%: 90% from 2019 to 2021.
