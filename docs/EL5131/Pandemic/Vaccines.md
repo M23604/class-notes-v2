@@ -1,7 +1,5 @@
 # Vaccines
-
 ## Vaccine Hesitancy
-
 ### Misinformation
 - [U.S. Government COVID-19 lies](https://slate.com/technology/2021/07/noble-lies-covid-fauci-cdc-masks.html)
 - [2004 VAERS Incredible Hulk Vaccine](https://www.beckershospitalreview.com/healthcare-information-technology/some-self-reported-cdc-data-fueling-the-anti-vaccination-movement.html)
