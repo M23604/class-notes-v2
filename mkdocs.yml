@@ -93,14 +93,17 @@ nav:
           - 'EL5131/Technology/Cancel Culture/Essays/essay0.md'
     - Unit 1 - 4th Industrial Revolution:
       - 'EL5131/FourIR & Globalization/Industry.md'
+      - 'EL5131/FourIR & Globalization/China US conflict.md'
       - Articles:
         - 'EL5131/FourIR & Globalization/Articles/article0.md'
         - 'EL5131/FourIR & Globalization/Articles/article1.md'
+        - 'EL5131/FourIR & Globalization/Articles/article2.md'
     - Unit 2 - Climate Change:
       - Home: 'EL5131/Climate Change/index.md'
       - 'EL5131/Climate Change/Singapore.md'
       - 'EL5131/Climate Change/Global Efforts.md'
       - 'EL5131/Climate Change/Worldwide Impact.md'
+      - 'EL5131/Climate Change/Eco-Tourism.md'
       - Articles:
         - 'EL5131/Climate Change/Articles/article0.md'
         - 'EL5131/Climate Change/Articles/article1.md'
@@ -124,6 +127,12 @@ nav:
     - 'CM5131/Intro to Organic Chem.md'
     - 'CM5131/Alkanes.md'
     - 'CM5131/Alkenes.md'
+    - 'CM5131/Arenes.md'
+    - 'CM5131/Halogens.md'
+    - 'CM5131/Hydroxy.md'
+    - 'CM5131/Carbonyl.md'
+    - 'CM5131/Acids.md'
+    - 'CM5131/Nitrogen.md'
   - CS5131:
     - Knowledge:
       - Logic Classes: 'CS5131/Knowledge/logic.py'

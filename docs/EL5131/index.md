@@ -7,4 +7,6 @@
 - [ ] Unit 1: Global Inequality
 - [ ] Unit 1: The 4th Industrial Revolution
 - [ ] Unit 2: Climate Change
-- [ ] Unit 2: The Pandemic
+- [x] Unit 2: The Pandemic
+    - [x] [Inequality](./Pandemic/Inequality.md)
+    - [x] [Vaccines](./Pandemic/Vaccines.md)
