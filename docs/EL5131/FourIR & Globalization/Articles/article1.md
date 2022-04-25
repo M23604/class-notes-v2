@@ -2,6 +2,7 @@
 <font size="4px">All Too Inhuman</font>
 
 <font size="3px"><i>By <a href="https://archive.is/o/dbuWH/https://www.foreignaffairs.com/authors/illah-reza-nourbakhsh">Illah Reza Nourbakhsh</a></i></font>
+
 <hr>
 
 The term “robotics revolution” evokes images of the future: a not-too-distant future, perhaps, but an era surely distinct from the present. In fact, that revolution is already well under way. Today, military robots appear on battlefields, drones fill the skies, driverless cars take to the roads, and “telepresence robots” allow people to manifest themselves halfway around the world from their actual location. But the exciting, even seductive appeal of these technological advances has overshadowed deep, sometimes uncomfortable questions about what increasing human-robot interaction will mean for society.

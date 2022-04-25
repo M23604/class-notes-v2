@@ -92,9 +92,10 @@ nav:
         - Essays:
           - 'EL5131\Technology\Cancel Culture\Essays\essay0.md'
     - Unit 1 - 4th Industrial Revolution:
+      - 'EL5131/FourIR & Globalization/Industry.md'
       - Articles:
-        - 'EL5131/FourIR/Articles/article0.md'
-        - 'EL5131/FourIR/Articles/article1.md'
+        - 'EL5131/FourIR & Globalization/Articles/article0.md'
+        - 'EL5131/FourIR & Globalization/Articles/article1.md'
     - Unit 2 - Climate Change:
       - Home: 'EL5131/Climate Change/index.md'
       - 'EL5131/Climate Change/Singapore.md'
@@ -105,11 +106,18 @@ nav:
         - 'EL5131\Climate Change\Articles\article1.md'
         - 'EL5131\Climate Change\Articles\article2.md'
         - 'EL5131\Climate Change\Articles\article3.md'
+        - 'EL5131\Climate Change\Articles\article4.md'
+    - Unit 2 - Pandemic:
+      - 'EL5131/Pandemic/Pandemic.md'
+      - Articles:
+        - 'EL5131\Pandemic\Articles\article0.md'
   - PC5131:
     - Home: 'PC5131/index.md'
     - 'PC5131/Rotational Mechanics.md'
     - 'PC5131/Waves I.md'
     - 'PC5131/Waves II.md'
+    - 'PC5131/Physical Optics.md'
+    - 'PC5131/Geometric Optics.md'
   - CM5131:
     - Home: 'CM5131/index.md'
     - 'CM5131/Intro to Organic Chem.md'
