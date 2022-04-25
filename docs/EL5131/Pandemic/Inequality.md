@@ -1,6 +1,6 @@
 # Inequality
-- [[#Income Inequality|Income Inequality]]
-- [[#Singapore|Singapore]]
+- [Income Inequality](#Income Inequality)
+- [Singapore](#Singapore)
 ---
 ## Income Inequality
 - [Example 1: Income Inequality in Singapore](https://www.channelnewsasia.com/singapore/covid-19-inequality-virus-further-widened-rich-poor-gap-2127951)

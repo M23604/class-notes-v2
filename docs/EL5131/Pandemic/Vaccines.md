@@ -1,5 +1,5 @@
 # Vaccines
-- [[#Vaccine Hesitancy|Vaccine Hesitancy]]
+- [Vaccine Hesitancy](#Vaccine Hesitancy)
 ---
 ## Vaccine Hesitancy
 Why?

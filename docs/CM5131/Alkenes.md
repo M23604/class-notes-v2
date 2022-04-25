@@ -18,7 +18,7 @@ In essence, Markovnikov's Rule deals with the fact that in the second stage of e
 
 ## Every Single Reaction
 
-### Hydrogentation
+### Hydrogenation
 $$
 \ce{MeHC = CH2 + H-H  ->[\text{Ni/Pd/Pt/Rh}][heat] MeH_2C - CH_3}
 $$
@@ -43,7 +43,7 @@ $$\ce{ MeHC = CH2 ->[\text{Cold }KMNO4][dark] Me(OH)HC - CH2OH}$$
 #### Ozonolysis
 $$\ce{ Me2C = CHMe ->[1) O3][2) Zn, H2O] Me2C=O + O=CHMe}$$
 
-#### Acidified Oxidation
+#### Complete Oxidation
 $$
 \begin{aligned}
 \ce{ Me2C = CHMe & ->[Hot KMNO4/H+] Me2C=O + O=C(OH)Me} \\
