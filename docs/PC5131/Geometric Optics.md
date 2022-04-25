@@ -6,8 +6,10 @@ Welcome, to chapter 4 of PC5131 on Geometric Optics. This is basically the behav
 $$
 \frac{1}{f} = \frac 1s + \frac 1{s'}
 $$
+
 $$
 \text{Lens Maker's Equation: } \frac{1}{f} \approx (n-1)\bigg[\frac 1{R_1}-\frac 1{R_2}\bigg]
 $$
+
 ## Convex Mirrors
 ## Concave mirrors

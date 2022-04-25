@@ -4,17 +4,21 @@ Chapter 3 of PC5131 is Physical Optics. It is essentially just the behaviour of 
 Optical Path Length $= nd$
 $n =$ refractive index of medium
 $d =$ physical distance
+
 <u>Example</u>
 ![Figure of glass with thickness l](https://www.sarthaks.com/?qa=blob&qa_blobid=10286458292504049266)
+
 Optical path length between $A\&B = x + y + l\mu$
 Number of cycles between $A\&B=\frac {\text{Optical Path length}}\lambda$
 
 ## Double Slit + Diffraction Grating
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6wdgqtSBHX1nIYgixe1m-uSGBQYK3P-Xg-A&usqp=CAU)
+
 <u>Dark Spots (Destructive Interference)</u>
 $\Delta \phi = (2n + 1)\pi$, Offset of $\pi$ or $\frac 12$ cycle
 $d\sin\theta = (m - \frac 12)\lambda$ where $m\in\mathbb{Z}^+$
 $x\tan\theta = y_m$
+
 <u>Light Spots (Constructive Interference)</u>
 $\Delta \phi = (2n)\pi$, Offset of $2\pi$ or $1$ cycle
 $d\sin\theta = m\lambda$ where $m\in\mathbb{Z}^+ \cup {0}$
