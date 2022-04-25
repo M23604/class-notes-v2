@@ -8,7 +8,7 @@ $$
 $$
 
 $$
-\text{Lens Maker's Equation: } \frac{1}{f} \approx (n-1)\bigg[\frac 1{R_1}-\frac 1{R_2}\bigg]
+\text{Lens Maker's Equation: } \frac{1}{f} = (n-1)\bigg[\frac 1{R_1}-\frac 1{R_2}\bigg]
 $$
 
 ## Convex Mirrors
