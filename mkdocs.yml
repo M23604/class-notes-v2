@@ -80,8 +80,11 @@ nav:
     - Home: 'EL5131/index.md'
     - 'EL5131/Stats and Quotes Notes.md'
     - Technology:
+      - 'EL5131/Technology/Blockchain.md'
+      - 'EL5131/Technology/Internet of Things.md'
+      - 'EL5131/Technology/Metaverse.md'
       - Big Tech:
-        - Home: 'EL5131/Technology/Big Tech/index.md.md'
+        - Home: 'EL5131/Technology/Big Tech/index.md'
         - Articles:
           - 'EL5131/Technology/Big Tech/Articles/article0.md'
           - 'EL5131/Technology/Big Tech/Articles/article1.md'

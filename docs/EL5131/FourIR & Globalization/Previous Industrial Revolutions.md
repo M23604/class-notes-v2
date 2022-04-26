@@ -7,4 +7,4 @@ Years: 1760 - 1840
 ## Second Industrial Revolution
 Years: 
 - "Technological Revolution"
-- 
+-  
