@@ -1,4 +1,4 @@
-# Stats and Quotes
+# EL4131 Stats and Quotes Notes
 ## Science
 ### Examples
 #### Medicine and Pharmacology

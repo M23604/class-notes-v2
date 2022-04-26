@@ -78,13 +78,14 @@ nav:
     - cli.md
   - English:
     - Home: 'EL5131/index.md'
-    - 'EL5131/Stats and Quotes Notes.md'
+    - 'EL5131/EL5131 Notes.md'
+    - 'EL5131/EL4131 Notes.md'
     - Technology:
       - 'EL5131/Technology/Blockchain.md'
-      - 'EL5131/Technology/Internet of Things.md'
+      - 'EL5131/Technology/Internet Of Things.md'
       - 'EL5131/Technology/Metaverse.md'
       - Big Tech:
-        - Home: 'EL5131/Technology/Big Tech/index.md'
+        - Home: 'EL5131/Technology/Big Tech/index.md.md'
         - Articles:
           - 'EL5131/Technology/Big Tech/Articles/article0.md'
           - 'EL5131/Technology/Big Tech/Articles/article1.md'
@@ -97,6 +98,7 @@ nav:
     - Unit 1 - 4th Industrial Revolution:
       - 'EL5131/FourIR & Globalization/Industry.md'
       - 'EL5131/FourIR & Globalization/China US conflict.md'
+      - 'EL5131/FourIR & Globalization/Previous Industrial Revolutions.md'
       - Articles:
         - 'EL5131/FourIR & Globalization/Articles/article0.md'
         - 'EL5131/FourIR & Globalization/Articles/article1.md'
