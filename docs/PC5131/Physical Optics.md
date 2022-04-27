@@ -37,4 +37,10 @@ $\implies d = \frac a2$
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIIMYaYje8FTsNHVhYv3YFI8YfFbJtLbQC1w&usqp=CAU)
 
 ## Thin Film
-(Can someone help I don't get this)
+An incident ray lands on a thin film. Recall from Waves I that a wave undergoes a half-wavelength phase shift when it goes from a less optical dense material (smaller refractive index) to a more optically dense material (bigger refractive index). 
+
+![](https://cdn1.byjus.com/wp-content/uploads/2021/04/Thin-Film-Interference-1.png)
+
+In the above diagram, ray 1 gets phase-shifted once. Ray 2 gets phase shifted twice, (once at air-to-film interface, second time at film-to-Surface B interface). Ray 2 also travels an extra $2t$ units of distance (this is approximation because the film is thin) than ray 1. But the shift in wavelength is not actually $2t$, because the wavelength becomes shorter when it enters the film (WHY?). It is instead $2t n_{film}$. 
+
+Adding all the phase shifts, the total phase shift is $d = 2n_{film}t + \frac12 \lambda$. When d is an integer multiple, it is constructive interference. When d is an integer multiple plus half, it is destructive.
