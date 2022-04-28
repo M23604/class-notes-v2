@@ -16,7 +16,7 @@ It's just everything we have already learnt, but they added angular in front of 
 |$F_{net} = ma$|$\tau_{net} = I\alpha$|
 |$p = mv$|$L = I\omega$|
 |$J = F\Delta t$|$\Delta L = \tau\Delta t$|
-|$W = F \cdot s$|$W = \tau \cdot \Delta\theta$|
+|$W = F_\parallel \cdot s$|$W = \tau \cdot \Delta\theta$|
 |$E_K = \frac{1}{2}mv^2$|$E_L = \frac{1}{2}I\omega^2$|
 |$P = \frac{W}{t} = F \cdot v$|$P = \tau \cdot \omega$|
 
