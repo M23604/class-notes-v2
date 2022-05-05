@@ -73,3 +73,8 @@ $$f' = f \frac{c \pm v_o}{c \mp v_s}$$
 |moving away|moving away|$c-v_o$|$c+v_s$|minimum|
 
 ***Just draw a damn diagram, for god's sake.***
+
+#### How to pick the correct signs?
+
+1. Look at how the frequency scales. For example, the frequency should increase if the target is moving towards the source, so make numerator big so numerator has a positive sign. The frequency should increase if the source is moving in the same direction as the sound so make denominator small so denominator has a negative sign.
+2. Look at just the speed of the source, target and sound. The numerator is the  "speed at which the target and source are approaching each other." The denominator is the "relative speed of the signal relative to the source." 

@@ -20,7 +20,7 @@ The deployment of robots as a response to the coronavirus was rapid.  They were 
 - The U.S. government incentivizes companies to automate, he says, by  giving tax breaks for buying machinery and software. A business that  pays a worker $100 pays $30 in taxes, but a business that spends $100 on equipment pays about $3 in taxes, he notes. The 2017 Tax Cuts and Jobs  Act lowered taxes on purchases so much that “you can actually make money buying equipment,” Acemoglu says.
 
 ### Work Ethic
-- According to data published by the International Labour Organisation  (ILO) in 2019, Asia has the longest average work-week. 
+- According to data published by the International Labour Organisation (ILO) in 2019, Asia has the longest average work-week. 
   - Three ASEAN countries are in the top 10, with Myanmar clocking 48  hours, Brunei, 47 and Malaysia, 46. 
   - Thailand and Singapore are in the top 20, with an average of 43 hours spent at work each week.
 
