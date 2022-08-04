@@ -148,7 +148,7 @@ nav:
       - Chapter 4 - Eigenvalues and Eigenvectors: 'MA5431/chapter4.md'
   - MA5132:
       - Chapter 1 - P&C: 'MA5132/chapter1.md'
-      - Chapter 3 - CRV: 'MA5132/chapter2.md'
+      - Chapter 3 - CRV: 'MA5132/chapter3.md'
 
 plugins:
   - mkdocs-jupyter
