@@ -26,13 +26,13 @@ theme:
     logo: material/console-network
 
   palette:
-    - media: "(prefers-color-scheme: dark)" 
+    - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: black
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-    - media: "(prefers-color-scheme: light)" 
+    - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: black
       toggle:
@@ -146,6 +146,9 @@ nav:
       - Puzzle via Logic: 'CS5131/Knowledge/puzzle.py'
   - MA5431:
       - Chapter 4 - Eigenvalues and Eigenvectors: 'MA5431/chapter4.md'
+  - MA5132:
+      - Chapter 1 - P&C: 'MA5132/chapter1.md'
+      - Chapter 3 - CRV: 'MA5132/chapter2.md'
 
 plugins:
   - mkdocs-jupyter
