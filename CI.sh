@@ -1,7 +1,6 @@
 #!/usr/bin/env sh
 
-pip3 install mkdocs
-pip3 install mkdocs-material
+pip3 install -r requirements.txt
 
 mkdocs build
 mkdocs gh-deploy
