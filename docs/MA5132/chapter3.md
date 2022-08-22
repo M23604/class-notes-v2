@@ -17,7 +17,7 @@ $$
 $$
 
 $$
-Var[X] = \int_{-\infty}^{\infty} (x-\mu_x)^2 f(x) \dd{x}
+Var[X] = \int_{-\infty}^{\infty} (x-\mu_x)^2 f(x) \text{ }dx
 $$
 
 A useful identity is 
@@ -81,7 +81,7 @@ $$
 f(x) = \frac{1}{\sigma \sqrt{2\pi}}\exp\left(-\frac{(x-\mu)^2}{2\sigma^2}\right)
 $$
 
-#### Standard Nomral Distrbiution
+#### Standard Normal Distribution
 
 Since all normal distribution are the same up to scaling and translation, we may define one standard normal distribution with zero mean and unit variance. Sums of gaussian distributions are also gaussian distributions.
 
