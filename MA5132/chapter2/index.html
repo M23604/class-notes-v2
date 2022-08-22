@@ -13,7 +13,7 @@
     
     
       
-        <title>Chapter 3 - CRV - Class Notes</title>
+        <title>Discrete Random Variables - Class Notes</title>
       
     
     
@@ -67,7 +67,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#continuous-random-variables" class="md-skip">
+        <a href="#discrete-random-variables" class="md-skip">
           Skip to content
         </a>
       
@@ -100,7 +100,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Chapter 3 - CRV
+              Discrete Random Variables
             
           </span>
         </div>
@@ -291,15 +291,13 @@
         
   
   
-    
-  
 
 
   
   
   
     <li class="md-tabs__item">
-      <a href="../chapter1/" class="md-tabs__link md-tabs__link--active">
+      <a href="../chapter1/" class="md-tabs__link">
         MA5132
       </a>
     </li>
@@ -1749,14 +1747,12 @@
 
   
   
-    
-  
   
     
-    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7" type="checkbox" id="__nav_7" checked>
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7" type="checkbox" id="__nav_7" >
       
       
       
@@ -1791,119 +1787,11 @@
               
   
   
-    
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
-      
-      
-        
-      
-      
-        <label class="md-nav__link md-nav__link--active" for="__toc">
-          Chapter 3 - CRV
-          <span class="md-nav__icon md-icon"></span>
-        </label>
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
+    <li class="md-nav__item">
+      <a href="../chapter3/" class="md-nav__link">
         Chapter 3 - CRV
       </a>
-      
-        
-
-<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-  
-  
-  
-    
-  
-  
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#pdfs-and-cdfs" class="md-nav__link">
-    PDFs and CDFs
-  </a>
-  
-    <nav class="md-nav" aria-label="PDFs and CDFs">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#features" class="md-nav__link">
-    Features
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#expectation-and-variance" class="md-nav__link">
-    Expectation and Variance
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#common-pdfs" class="md-nav__link">
-    Common PDFs
-  </a>
-  
-    <nav class="md-nav" aria-label="Common PDFs">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#uniform-random-variable" class="md-nav__link">
-    Uniform Random Variable
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#exponential-random-variable" class="md-nav__link">
-    Exponential Random Variable
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#normal-distribution" class="md-nav__link">
-    Normal Distribution
-  </a>
-  
-    <nav class="md-nav" aria-label="Normal Distribution">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#standard-normal-distribution" class="md-nav__link">
-    Standard Normal Distribution
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-      
-    </ul>
-  
-</nav>
-      
     </li>
   
 
@@ -2018,23 +1906,37 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#pdfs-and-cdfs" class="md-nav__link">
-    PDFs and CDFs
+  <a href="#definitions" class="md-nav__link">
+    Definitions
   </a>
   
-    <nav class="md-nav" aria-label="PDFs and CDFs">
+    <nav class="md-nav" aria-label="Definitions">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#features" class="md-nav__link">
-    Features
+  <a href="#expected-value-mean" class="md-nav__link">
+    Expected Value (Mean)
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#expectation-and-variance" class="md-nav__link">
-    Expectation and Variance
+  <a href="#variance" class="md-nav__link">
+    Variance
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#standard-deviation" class="md-nav__link">
+    Standard Deviation
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#crucial-results" class="md-nav__link">
+    Crucial Results
   </a>
   
 </li>
@@ -2045,44 +1947,17 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#common-pdfs" class="md-nav__link">
-    Common PDFs
+  <a href="#common-distributions" class="md-nav__link">
+    Common Distributions
   </a>
   
-    <nav class="md-nav" aria-label="Common PDFs">
+    <nav class="md-nav" aria-label="Common Distributions">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#uniform-random-variable" class="md-nav__link">
-    Uniform Random Variable
+  <a href="#binomial" class="md-nav__link">
+    Binomial
   </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#exponential-random-variable" class="md-nav__link">
-    Exponential Random Variable
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#normal-distribution" class="md-nav__link">
-    Normal Distribution
-  </a>
-  
-    <nav class="md-nav" aria-label="Normal Distribution">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#standard-normal-distribution" class="md-nav__link">
-    Standard Normal Distribution
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
   
 </li>
         
@@ -2105,68 +1980,39 @@
                 
 
 
-<h1 id="continuous-random-variables">Continuous Random Variables</h1>
-<h2 id="pdfs-and-cdfs">PDFs and CDFs</h2>
-<p>The probability of landing on any single point is zero, but the integral from negative to positive infinity is unity.</p>
-<h3 id="features">Features</h3>
-<ul>
-<li><strong>Median</strong>: The value <span class="arithmatex">\(m\)</span> such that <span class="arithmatex">\(F(m) = 1/2\)</span>; It splits the distribution evenly.</li>
-<li><strong>Mode</strong>: The value where the PDF attains its maximum value.</li>
-</ul>
-<h3 id="expectation-and-variance">Expectation and Variance</h3>
+<h1 id="discrete-random-variables">Discrete Random Variables</h1>
+<p>For any discrete random variable (DRV), it is crucial that the following result applies:
+<span class="arithmatex">\(<span class="arithmatex">\(\sum_{i=0}^n P(X=i)=1\)</span>\)</span></p>
+<h2 id="definitions">Definitions</h2>
+<h3 id="expected-value-mean">Expected Value (Mean)</h3>
+<div class="arithmatex">\[\mu_x = E(X) = \sum_{i=0}^n i \cdot P(X=i)$$
+### Extended Expected Value
+$$E(f(X)) = \sum_{i=0}^n f(i) \cdot P(X=i)\]</div>
+<h3 id="variance">Variance</h3>
+<div class="arithmatex">\[\sigma_x^2 = Var(X) = E(X^2)-\left[E(X)\right]^2 = E\left( (X-\mu_x)^2 \right)\]</div>
+<h3 id="standard-deviation">Standard Deviation</h3>
+<div class="arithmatex">\[\sigma_x = Std(X) = \sqrt{E(X^2)- [E(X)]^2} = \sqrt{E\left((X-\mu_x)^2\right)}\]</div>
+<h3 id="crucial-results">Crucial Results</h3>
 <div class="arithmatex">\[
-\mu_x = E[X] = \int_{-\infty}^\infty xf(x) dx
+\begin{align*}
+E(aX\pm bY + c) &amp;= a^2 E(X) + b^2 E(Y) \\
+Var(aX+b) &amp;= a^2 Var(X) \\
+Var(aX\pm bY) &amp;= Var(aX) + Var(aY) \text{ (Only applies if X and Y are independent.)}
+\end{align*}
 \]</div>
+<h2 id="common-distributions">Common Distributions</h2>
+<h3 id="binomial">Binomial</h3>
 <div class="arithmatex">\[
-Var[X] = \int_{-\infty}^{\infty} (x-\mu_x)^2 f(x) \text{ }dx
+\begin{align*}
+P(X=k) &amp;= \binom nk \cdot p^k \cdot (1-p)^{n-k} \\
+\sum_{k=0}^n P(X=k) &amp;= \sum_{k=0}^n \binom nk \cdot p^k \cdot (1-p)^{n-k} \\
+&amp;= \binom n0 (1-p)^{n} + \binom n1 p(1-p)^{n-1} + \dots + \binom n{n-1}p^{n-1}(1-p) + \binom nn p^n \\
+&amp;= (1-p+p)^n = 1^n = \textbf{1} \\
+E(X) &amp;= np\\
+Var(X) &amp;= np(1-p) \\
+P(X &lt; k) &amp;= \sum_{i=0}^{n}
+\end{align*}
 \]</div>
-<p>A useful identity is 
-$$
-Var[X] = E[X^2] - \mu_x^2.
-$$</p>
-<p>You can remember the order as "E-mu", or by verifying the variance is positive.</p>
-<h2 id="common-pdfs">Common PDFs</h2>
-<h3 id="uniform-random-variable">Uniform Random Variable</h3>
-<p><strong>Mean:</strong> <span class="arithmatex">\((\beta +\alpha)/2\)</span></p>
-<p><strong>Variance:</strong> <span class="arithmatex">\((\beta -\alpha)^2/12\)</span></p>
-<p><strong>Domain:</strong> <span class="arithmatex">\((\alpha, \beta)\)</span></p>
-<div class="arithmatex">\[
-f(x) = 1/(\beta - \alpha)
-\]</div>
-<p>On <span class="arithmatex">\((\beta-\alpha)\)</span>.</p>
-<div class="arithmatex">\[
-F(x) = \frac{x-\alpha}{\beta - \alpha}
-\]</div>
-<p>For <span class="arithmatex">\(x &gt; \beta\)</span>, <span class="arithmatex">\(F(x) = 1\)</span>.</p>
-<h3 id="exponential-random-variable">Exponential Random Variable</h3>
-<p>If <span class="arithmatex">\(X ~ Po(\lambda)\)</span>, then <span class="arithmatex">\(T\)</span> is the time until the first event occurs. This distribution is derived from <span class="arithmatex">\(F(t) =  1 - P(X=0;\lambda = \lambda_t)\)</span>, then differentiating. Like the Poisson distribution, it has the memoryless property.</p>
-<p><strong>Mean:</strong> <span class="arithmatex">\(1/\lambda\)</span>
-<strong>Variance:</strong> <span class="arithmatex">\(1/\lambda^2\)</span>
-<strong>Domain:</strong> <span class="arithmatex">\([0,\infty)\)</span></p>
-<div class="arithmatex">\[
-f(x) = \lambda e^{-\lambda t}
-$$
-$$
-F(x) = 1-e^{-\lambda t}
-\]</div>
-<p>For <span class="arithmatex">\(x &gt; \beta\)</span>, <span class="arithmatex">\(F(x) = 1\)</span>.</p>
-<h3 id="normal-distribution">Normal Distribution</h3>
-<p><span class="arithmatex">\(X ~ N(\mu,\sigma^2)\)</span>. </p>
-<p><strong>Mean/Mode/Median:</strong> <span class="arithmatex">\(\mu\)</span>
-<strong>Variance:</strong> <span class="arithmatex">\(\sigma^2\)</span>
-<strong>Domain:</strong> <span class="arithmatex">\([0,\infty)\)</span>
-<strong>Special values</strong>: 68%,95%,99.7% fall within 1,2,3 standard deviations of the mean.</p>
-<div class="arithmatex">\[
-f(x) = \frac{1}{\sigma \sqrt{2\pi}}\exp\left(-\frac{(x-\mu)^2}{2\sigma^2}\right)
-\]</div>
-<h4 id="standard-normal-distribution">Standard Normal Distribution</h4>
-<p>Since all normal distribution are the same up to scaling and translation, we may define one standard normal distribution with zero mean and unit variance. Sums of gaussian distributions are also gaussian distributions.</p>
-<p>Define the z-score as
-$$
-z = \frac{x-\mu}{\sigma}.
-$$</p>
-<p>Calculating <span class="arithmatex">\(P(X = x; \sigma, \mu)\)</span> is then equivalent to finding <span class="arithmatex">\(P(Z = (x-\mu)/\sigma)\)</span>. Using GC, it is also possible to find the <span class="arithmatex">\(z\)</span> for which <span class="arithmatex">\(F(Z \leq z)\)</span> attains some value.</p>
-<p>Note <span class="arithmatex">\(F(-z) = 1-F(z)\)</span>.</p>
 
               
             </article>
@@ -2176,41 +2022,6 @@ $$</p>
       </main>
       
         <footer class="md-footer">
-  
-    <nav class="md-footer__inner md-grid" aria-label="Footer">
-      
-        
-        <a href="../chapter1/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Chapter 1 - P&amp;C" rel="prev">
-          <div class="md-footer__button md-icon">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
-          </div>
-          <div class="md-footer__title">
-            <div class="md-ellipsis">
-              <span class="md-footer__direction">
-                Previous
-              </span>
-              Chapter 1 - P&C
-            </div>
-          </div>
-        </a>
-      
-      
-        
-        <a href="../../CM5132/" class="md-footer__link md-footer__link--next" aria-label="Next: Home" rel="next">
-          <div class="md-footer__title">
-            <div class="md-ellipsis">
-              <span class="md-footer__direction">
-                Next
-              </span>
-              Home
-            </div>
-          </div>
-          <div class="md-footer__button md-icon">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
-          </div>
-        </a>
-      
-    </nav>
   
   <div class="md-footer-meta md-typeset">
     <div class="md-footer-meta__inner md-grid">
