@@ -149,6 +149,10 @@ nav:
   - MA5132:
       - Chapter 1 - P&C: 'MA5132/chapter1.md'
       - Chapter 3 - CRV: 'MA5132/chapter3.md'
+  - CM5132:
+      - Home: CM5132/index.md
+      - CM5132/energetics.md
+      - CM5132/thermodynamics.md
 
 plugins:
   - mkdocs-jupyter
